@@ -1,0 +1,85 @@
+1. Color Palette
+
+Primary Colors:
+
+Blue (#0073E6) – Trust, professionalism, tech-friendly.
+
+White (#FFFFFF) – Clean, simple background for readability.
+
+Secondary / Accent Colors:
+
+Green (#28A745) – Success, verification, “Go” signals.
+
+Dark Gray (#333333) – Text for readability, professional tone.
+
+Light Gray (#F5F5F5) – Subtle section backgrounds to separate content blocks.
+
+💡 Why: Blue = authority & trust, Green = action/results, Gray/White = clean & modern. This combo is widely used in SaaS and service websites for credibility.
+
+2. Typography
+
+Headlines: Sans-serif, bold, modern – e.g., Montserrat, Poppins, or Open Sans
+
+Body text: Clean sans-serif – e.g., Roboto, Lato, or Open Sans
+
+CTA buttons: Bold, uppercase, contrasting color (green or blue)
+
+💡 Tip: Consistency is key. Headlines, subheads, and body text should have clear hierarchy for easy scanning.
+
+3. Layout & Design Choices
+
+One-Page Scroll Layout
+
+Hero → Pain → Agitation → Solution → Packages → Results → FAQ → CTA
+
+Smooth scrolling with clear anchors for navigation.
+
+Hero Section
+
+Full-width background (light gradient or subtle map overlay)
+
+Headline + Subheadline + Primary CTA button front and center
+
+Sections
+
+Alternate background colors: White / Light Gray / White → visually separates sections
+
+Use icons or small graphics for bullets (like checkmarks for benefits)
+
+Images / Visuals
+
+Photos of business environments, computers, Google Maps, or someone working at a desk
+
+Optional: Illustrations showing verification steps (diagram style)
+
+CTA Buttons
+
+Rounded corners, bold, high contrast
+
+Primary CTA: Green (#28A745) → “Start My Verification”
+
+Secondary CTA: Blue (#0073E6) → “Learn More”
+
+Trust Indicators
+
+Small badges/icons: Verified, Secure, Professional
+
+Testimonials in speech bubble or card style
+
+Optional: logos of tools (Google, Maps)
+
+Responsive Design
+
+Must look clean on desktop and mobile
+
+Mobile CTA buttons should be large, easy to tap
+
+High-Leverage Tips
+
+Use white space liberally – don’t crowd the page.
+
+Keep text concise and scannable; use bullets and headings.
+
+Highlight primary CTA in multiple places (Hero, Packages, Results, Final CTA).
+
+Stick to 2–3 colors max for professionalism; don’t overcomplicate.
